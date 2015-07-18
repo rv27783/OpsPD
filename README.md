@@ -1,2 +1,2 @@
 # OpsPD
-This is command OpsPD Repository
+This is repository for OPSPD. 
